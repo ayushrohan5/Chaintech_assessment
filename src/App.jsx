@@ -1,8 +1,10 @@
-import React from 'react'
+import Herocomponent from './components/herocomponent'
 
 const App = () => {
   return (
-    <div>App</div>
+    <>
+    <Herocomponent />
+    </>
   )
 }
 
