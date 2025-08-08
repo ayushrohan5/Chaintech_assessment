@@ -51,6 +51,7 @@ a {
     font-weight: bold;
     font-size: 0.97rem;
     transition: background 0.2s;
+    border-radius:3px;
 }
 
 .contact-btn:hover {
@@ -146,6 +147,7 @@ a {
     padding: 2.5rem 4vw;
     gap: 1vw;
     box-shadow: 0 2px 16px rgba(0,0,0,0.09);
+    border: 1px solid rgba(236, 236, 236, 0.99);
 }
 .stat {
     flex: 1 1 0;
