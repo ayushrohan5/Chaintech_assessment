@@ -1,4 +1,4 @@
-import Herocomponent from './components/herocomponent'
+import Herocomponent from './components/Herocomponent'
 import Lastpage from './components/Lastpage'
 import Portfolio from './components/Portfolio'
 import Skills from './components/Skills'
